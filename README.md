@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Gabriel Sousa
 
 - 💻 Hoje trabalho como Analista de T.I.
-- 📚 HTML, CSS, JAVASCRIPT e REACT.
+- 📚 HTML, CSS, Javascript e React.
 - 🎨 Fanático em NFTs.
 
 <div align="center">
