@@ -18,8 +18,8 @@
   <img align="center" alt="Gabs-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
    <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/python-original.svg" />
-   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/java-original.svg" />
+   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     
 
   <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" img src="https://thumbs2.imgbox.com/e2/f5/cijy0xDn_t.png" alt="image host"/></a>
